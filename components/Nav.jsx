@@ -28,6 +28,7 @@ const Nav = () => {
           width={30}
           height={30}
         />
+        <p className="logo_text">NextPrompt</p>
       </Link>
       {/* Desktop navigation */}
       <div className="sm:flex hidden">
